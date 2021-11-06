@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tmx version="1.4">
+<header creationtool="ABBYY Aligner" creationtoolversion="1.0" segtype="sentence" o-tmf="ATM" adminlang="en-US" srclang="en-US" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="zh-CN"><seg>启动Ⅰ级响应
+</seg></tuv>
+<tuv xml:lang="en-US"><seg></seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>根据突发公共卫生事件性质、危害程度、涉及范围，突发公共卫生事件划分为特别重大(Ⅰ级)、重大(II级)、较大(III级)和一般(IV级)四级。</seg></tuv>
+<tuv xml:lang="en-US"><seg>According to the nature, severity and scope of impact, public health emergencies are classified into four levels (I, II, III and IV), with severity decreasing from Level I to Level IV. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>这次新冠肺炎疫情是新中国成立以来在我国发生的传播速度最快、感染范围最广、防控难度最大的一次突发公共卫生事件。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>The novel coronavirus epidemic is a public health emergency with the fastest spread and the widest range of infections, and has been the most difficult to prevent and control in China since the founding of the People's Republic in 1949.
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>疫情就是命令，防控就是责任。</seg></tuv>
+<tuv xml:lang="en-US"><seg>"Go where there is epidemic, fight it till it perishes." </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>自2020年1月23日起，武汉城市公交、地铁、轮渡、长途客运暂停运营，机场、火车站离汉通道暂时关闭。</seg></tuv>
+<tuv xml:lang="en-US"><seg>On January 23, 2020, Wuhan's urban bus, subway, ferry and long-distance passenger transportation was all suspended, and the departure channels of airport and railway stations were also temporarily closed. 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>1月24日，湖北省正式启动重大突发公共卫生事件Ⅰ级响应。</seg></tuv>
+<tuv xml:lang="en-US"><seg>On January 24, Hubei province officially launched the first-level response to major public health emergency. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>全国先后共有31个省、市、自治区启动“重大突发公共卫生事件Ⅰ级响应”，全面备战新冠肺炎疫情联防联控工作。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Across China, a total of 31 provinces, autonomous regions and municipalities directly under the central government took similar actions and made comprehensive preparation for joint prevention and control of the epidemic. 
+</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>在Ⅰ级响应发出后，国家卫生健康委要求各地交通运输、民航、铁路等部门制定应急处理预案；财政部与国家卫健委联合制定疫情防控经费有关保障政策。</seg></tuv>
+<tuv xml:lang="en-US"><seg>Consequently, the NHC urged transportation, civil aviation, railway and other departments to formulate emergency response plans. It also worked with the Ministry of Finance and jointly devised policies on allocating funds in support of epidemic prevention and control. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>随着疫情防控工作取得阶段性成效，全国疫情形势出现积极向好的趋势。</seg></tuv>
+<tuv xml:lang="en-US"><seg>As phased results are achieved, the overall situation of the epidemic has shown a positive trend in China. </seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="zh-CN"><seg>按照“防控生产两不误”的要求，全国多地根据实际情况适当调整应急响应级别。
+</seg></tuv>
+<tuv xml:lang="en-US"><seg>To ensure progress with both epidemic control and production, many places have appropriately lowered their emergency response levels according to the local situation.</seg></tuv>
+</tu>
+</body>
+</tmx>

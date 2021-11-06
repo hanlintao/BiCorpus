@@ -1,0 +1,18 @@
+<script>
+
+ $(document).ready(function() {
+	 $(".edit_comments").editable(
+		"savecomments.php", 
+		{
+			type      : "textarea",
+			submit    : '保存',
+			cancel    : '取消',
+			tooltip   : "点击开始编辑",
+			onblur    : "ignore",
+			width     : "100%",
+			rows      : "5"
+		});
+
+ });
+
+</script>
