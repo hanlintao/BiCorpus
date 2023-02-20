@@ -13,7 +13,7 @@
 			<!--<li><a href="notes">关于</a></li> -->
 			<li><a href="team.php">团队</a></li>
 			<!--<li><a href="segsearch.php">关键词</a></li>-->
-			
+			<li><a href="chat.php">问答</a></li>
 			<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 						操作
